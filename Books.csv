@@ -1,0 +1,17 @@
+bookid,title,author,publisher,edition,cost,category
+101.0,Organic Chemistry,Stuart Warren,ARP Publications,2016.0,530.0,Chemistry
+102.0,Basic Chemistry,Karen Timberlake,FRC Publications,2019.0,850.0,Chemistry
+103.0,Periodic Tales,Hugh Williams,CWP Publications,2017.0,450.0,Chemistry
+104.0,Concepts of Physics,H.C. Verma,Dhanpatrai Publications,2018.0,900.0,Physics
+105.0,Basic Physics,Karl F. Kuhn,Modern Publishers,2020.0,870.0,Physics
+106.0,Advanced Physics,K.S. Randhawa,Arihant Publications,2019.0,540.0,Physics
+107.0,R.D. Sharma,R.D. Sharma,Dhanpatrai Publications,2021.0,900.0,Maths
+108.0,Advanced Algebra,Cengage,Arihant Publications,2017.0,490.0,Maths
+109.0,R.S. Agarwal,R.S. Agarwal,Sharma Publications,2019.0,970.0,Maths
+110.0,Informatics Practices A,Sumita Arora,Dhanpatrai Publications,2022.0,560.0,I.P
+111.0,Computer Fundamentals,Pradeep Sinha,Star Publishers,2019.0,450.0,I.P
+112.0,Informatics Practices,Preeti Arora,Dhanpatrai Publications,2019.0,540.0,I.P
+113.0,Harry Potter,J.K. Rowling,Scholastic,2009.0,430.0,Novel
+114.0,Jungle Book,Rudyard Kipling,AB Publishers,2015.0,560.0,Novel
+115.0,The Blue Umbrella,Ruskin Bond,Scholastic,2017.0,420.0,Novel
+116.0,Inorganic Chemistry,Suresh Mehta,Arihant Publications,2019.0,680.0,Chemistry
